@@ -1,6 +1,7 @@
 # golang-restapi-dockerized
-simple go rest api with mysql
+This is a simple golang application containerized with docker
 
-Create your own env file
+## How to Run
 
-Run with: docker-compose up -d
+1. Create your own .env file
+2. Run docker-compose: `docker-compose up -d`
